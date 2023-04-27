@@ -13,6 +13,7 @@ First activity:
 Once you're done reading this, fork this repo\
 Create a branch named "Lastname-firstname"\
 And add your name to this file underneath this line\
+Adetoun Favour\
 Open a Pull Request so we can get your work merged!\
 You're now one of us, complete with your name recorded\
 (N/B) Backslash character is a new line\
