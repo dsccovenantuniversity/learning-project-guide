@@ -1,7 +1,7 @@
 # learning-project-guide
 A repository containing information on how members are to approach project based learning 
 
-Steps:
+## Steps:
 
 - A repo is created with a readme file describing the challenge to be completed, and containing links to more info/resources <br/> 
 - You fork the repo, and create a new folder/directory named in format "firstname-lastname"
