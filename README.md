@@ -17,3 +17,6 @@ Open a Pull Request so we can get your work merged!\
 You're now one of us, complete with your name recorded\
 (N/B) Backslash character is a new line\
 
+  # Contributors
+- [Oluwatimilehin Alabi] (https://github.com/CyberBishop)
+
