@@ -18,5 +18,5 @@ You're now one of us, complete with your name recorded\
 (N/B) Backslash character is a new line\
 
   # Contributors
-- [Oluwatimilehin Alabi] (https://github.com/CyberBishop)
+- [Oluwatimilehin Alabi](https://github.com/CyberBishop)
 
