@@ -41,7 +41,7 @@ Once you're done reading this:
 
 4. Open a Pull Request so we can get your work merged!
 
-You're now one of us, complete with your name recorded!
+You're now one of us, complete with your name recorded! 🙂
 
   # Contributors
 - [Oluwatimilehin Alabi](https://github.com/CyberBishop)
