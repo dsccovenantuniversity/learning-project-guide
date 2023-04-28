@@ -3,7 +3,7 @@ A repository containing information on how members are to approach project based
 
 ## Steps:
 
-- [] A repo is created with a readme file describing the challenge to be completed, and containing links to more info/resources <br/> 
+- [x] A repo is created with a readme file describing the challenge to be completed, and containing links to more info/resources <br/> 
 - [] You fork the repo, and create a new folder/directory named in format **"firstname-lastname"**
 
 - [] Add your code and PR whenever you want a review or are ready to merge
