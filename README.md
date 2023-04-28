@@ -1,5 +1,21 @@
 # learning-project-guide
 
+             *     ,MMM8&&&.            *
+                  MMMM88&&&&&    .
+                 MMMM88&&&&&&&
+     *           MMM88&&&&&&&&
+                 MMM88&&&&&&&&
+                 'MMM88&&&&&&'
+                   'MMM8&&&'      *
+          |\___/|
+          )     (             .              '
+         =\     /=
+           )===(       *
+          /     \
+          |     |
+         /       \
+         \       /
+
 A repository containing information on how members are to approach project based learning.
 
 ## Instructions
@@ -25,7 +41,7 @@ Once you're done reading this:
 
 4. Open a Pull Request so we can get your work merged!
 
-You're now one of us, complete with your name recorded?
+You're now one of us, complete with your name recorded!
 
   # Contributors
 - [Oluwatimilehin Alabi](https://github.com/CyberBishop)
