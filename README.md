@@ -60,4 +60,6 @@ Switched to a new branch 'john-doe'
 
 - [Oluwatimilehin Alabi](https://github.com/CyberBishop)
 - [Osemeke Jesse-Paul Miracle](https://github.com/FloatinggOnion)
+- [Daniel Onyesoh](https://github.com/Ch1n3du)
+- [Nathan Somto](https://github.com/Nathan-Somto)
 - [Fumnanya Mowete](https://github.com/poopsicles)
