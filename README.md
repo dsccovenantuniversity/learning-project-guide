@@ -1,20 +1,22 @@
 # learning-project-guide
 
-             *     ,MMM8&&&.            *
-                  MMMM88&&&&&    .
-                 MMMM88&&&&&&&
-     *           MMM88&&&&&&&&
-                 MMM88&&&&&&&&
-                 'MMM88&&&&&&'
-                   'MMM8&&&'      *
-          |\___/|
-          )     (             .              '
-         =\     /=
-           )===(       *
-          /     \
-          |     |
-         /       \
-         \       /
+```text
+         *     ,MMM8&&&.            *
+              MMMM88&&&&&    .
+             MMMM88&&&&&&&
+ *           MMM88&&&&&&&&
+             MMM88&&&&&&&&
+             'MMM88&&&&&&'
+               'MMM8&&&'      *
+      |\___/|
+      )     (             .              '
+     =\     /=
+       )===(       *
+      /     \
+      |     |
+     /       \
+     \       /
+```
 
 A repository containing information on how members are to approach project based learning.
 
