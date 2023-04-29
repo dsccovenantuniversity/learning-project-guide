@@ -77,3 +77,5 @@ You're now one of us, complete with your name recorded! 🙂
 - [Oluwatimilehin Alabi](https://github.com/CyberBishop)
 
 - [Osemeke Jesse-Paul Miracle](https://github.com/FloatinggOnion)
+
+- [Mac-Asore David Edafe](https://github.com/Macasore)
