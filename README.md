@@ -1,81 +1,67 @@
 # learning-project-guide
 
+```text
+         *     ,MMM8&&&.            *
+              MMMM88&&&&&    .
+             MMMM88&&&&&&&
+ *           MMM88&&&&&&&&
+             MMM88&&&&&&&&
+             'MMM88&&&&&&'
+               'MMM8&&&'      *
+      |\___/|
+      )     (             .              '
+     =\     /=
+       )===(       *
+      /     \
+      |     |
+     /       \
+     \       /
+```
 
-             *     ,MMM8&&&.            *
-                  MMMM88&&&&&    .
-                 MMMM88&&&&&&&
-     *           MMM88&&&&&&&&
-                 MMM88&&&&&&&&
-                 'MMM88&&&&&&'
-                   'MMM8&&&'      *
-          |\___/|
-          )     (             .              '
-         =\     /=
-           )===(       *
-          /     \
-          |     |
-         /       \
-         \       /
+A repository containing information on how members are to approach project-based learning.
 
-A repository containing information on how members are to approach project based learning.
+## Steps
 
-## Instructions
+- [X] A repo is created with a README file describing the challenge to be completed, and containing links to more info/resources
 
-1. A repo is created with a readme file describing the challenge to be completed, and containing links to more info/resources.
+- [ ] You fork the repo, and create a new branch, named in format `firstname-lastname`
 
-2. You fork the repo, and create a new folder/directory named in format `"firstname-lastname"`
+- [ ] If you're adding a new project, make a new folder also named `firstname-lastname`
 
-3. Add your code and PR whenever you want a review or are ready to merge.
-
-4. Each PR would need two reviews to be merged.
-
->**Note:** Ensure **ALL** your contributions are within this folder to avoid merge conflicts.
-Any contributions you want to make to the repo  outside your folder must follow the issue-fork-branch flow used to make open source contributions.
-
-## First activity
-
-Once you're done reading this:
-
-1. fork this repo
-
-2. Create a branch named `"Lastname-firstname"`.
-
-3. And add your name to this file underneath this line.
-
-4. Open a Pull Request so we can get your work merged!
-
-You're now one of us, complete with your name recorded! 🙂
-=======
-## Steps:
-
-- [ ] A repo is created with a readme file describing the challenge to be completed, and containing links to more info/resources <br/> 
-- [ ] You fork the repo, and create a new folder/directory named in format ``"firstname-lastname"``
-
-- [ ] Add your code and PR whenever you want a review or are ready to merge
+- [ ] Commit your edits and PR whenever you want a review or are ready to merge
 
 - [ ] Each PR would need two reviews to be merged
 
-***ENSURE ALL YOUR contributions ARE WITHIN THIS FOLDER TO AVOID MERGE-CONFLICTS(Any contributions you want to make to the repo outside your folder must follow the issue-fork-branch flow used to make open source contributions***
+> Ensure ALL YOUR contributions ARE WITHIN YOUR FOLDER to minimise merge conflicts *(Any contributions you want to make to the repo must follow the issue-fork-branch flow used to make open-source contributions)*
 
-## First activity:
-- Once you're done reading this, fork this repo
+## First activity - Get on the list
 
-- Create a branch named "Lastname-firstname"
+- Once you're done reading this, fork this repo and clone your fork
 
-  ```
-  git branch lastname-firstname
-  ```
- - And add your name to this file underneath this line
- 
--  Open a Pull Request so we can get your work merged!
+```sh
+$ git clone https://github.com/john/learning-project-guide.git
+Cloning into '~/Downloads/learning-project-guide'...
+...
+Done.
+```
+
+- Create a branch named `firstname-lastname` and switch to it
+
+```sh
+$ git checkout -b john-doe
+Switched to a new branch 'john-doe'
+```
+
+- And add your name to [this file](README.md) in the section below (There's no need for a folder since we're all working on the same file)
+
+- Open a [pull request](https://github.com/dsccovenantuniversity/learning-project-guide/compare) so we can get your work merged! (don't forget to compare across forks!)
 
 - You're now one of us, complete with your name recorded 😊😀
 
-(N/B) Backslash character is a new line\
+## Contributors
 
-  # Contributors
 - [Oluwatimilehin Alabi](https://github.com/CyberBishop)
-
-- [Osemeke Jesse-Paul Miracle](https://github.com/FloatinggOnion)
-
+- [Daniel Onyesoh](https://github.com/Ch1n3du)
+- [Nathan Somto](https://github.com/Nathan-Somto)
+- [Fumnanya Mowete](https://github.com/poopsicles)
 - [Mac-Asore David Edafe](https://github.com/Macasore)
