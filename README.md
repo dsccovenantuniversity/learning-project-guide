@@ -18,11 +18,11 @@
      \       /
 ```
 
-A repository containing information on how members are to approach project based learning.
+A repository containing information on how members are to approach project-based learning.
 
 ## Steps
 
-- [X] A repo is created with a readme file describing the challenge to be completed, and containing links to more info/resources
+- [X] A repo is created with a README file describing the challenge to be completed, and containing links to more info/resources
 
 - [ ] You fork the repo, and create a new branch, named in format `firstname-lastname`
 
@@ -39,9 +39,9 @@ A repository containing information on how members are to approach project based
 - Once you're done reading this, fork this repo and clone your fork
 
 ```sh
-$ git clone https://github.com/you/learning-project-guide.git
+$ git clone https://github.com/john/learning-project-guide.git
 Cloning into '~/Downloads/learning-project-guide'...
-...Output omitted...
+...
 Done.
 ```
 
@@ -54,7 +54,7 @@ Switched to a new branch 'john-doe'
 
 - And add your name to [this file](README.md) in the section below (There's no need for a folder since we're all working on the same file)
 
-- Open a [pull request](https://github.com/dsccovenantuniversity/learning-project-guide/compare) so we can get your work merged! (don't forget to compare across forks)
+- Open a [pull request](https://github.com/dsccovenantuniversity/learning-project-guide/compare) so we can get your work merged! (don't forget to compare across forks!)
 
 - You're now one of us, complete with your name recorded 😊😀
 
