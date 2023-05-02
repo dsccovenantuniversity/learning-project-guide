@@ -66,4 +66,6 @@ Switched to a new branch 'john-doe'
 - [Fumnanya Mowete](https://github.com/poopsicles)
 - [Mac-Asore David Edafe](https://github.com/Macasore)
 - [Egbejule Eworitse](https://github.com/EbiScott)
+- [Wisdom Ochei](https://github.com/wizzy-design)
 - [Seyi Adisa](https://github.com/seyiadisa)
+
