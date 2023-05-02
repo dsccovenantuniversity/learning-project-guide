@@ -22,7 +22,7 @@ A repository containing information on how members are to approach project-based
 
 ## Steps
 
-- [X] A repo is created with a README file describing the challenge to be completed, and containing links to more info/resources
+- [x] A repo is created with a README file describing the challenge to be completed, and containing links to more info/resources
 
 - [ ] You fork the repo, and create a new branch, named in format `firstname-lastname`
 
@@ -32,7 +32,7 @@ A repository containing information on how members are to approach project-based
 
 - [ ] Each PR would need two reviews to be merged
 
-> Ensure ALL YOUR contributions ARE WITHIN YOUR FOLDER to minimise merge conflicts *(Any contributions you want to make to the repo must follow the issue-fork-branch flow used to make open-source contributions)*
+> Ensure ALL YOUR contributions ARE WITHIN YOUR FOLDER to minimise merge conflicts _(Any contributions you want to make to the repo must follow the issue-fork-branch flow used to make open-source contributions)_
 
 ## First activity - Get on the list
 
@@ -67,3 +67,5 @@ Switched to a new branch 'john-doe'
 - [Mac-Asore David Edafe](https://github.com/Macasore)
 - [Egbejule Eworitse](https://github.com/EbiScott)
 - [Wisdom Ochei](https://github.com/wizzy-design)
+- [Seyi Adisa](https://github.com/seyiadisa)
+
