@@ -68,5 +68,5 @@ Switched to a new branch 'john-doe'
 - [Egbejule Eworitse](https://github.com/EbiScott)
 - [Wisdom Ochei](https://github.com/wizzy-design)
 - [Seyi Adisa](https://github.com/seyiadisa)
-- [Oluwatodimu Ayodele] (https://github.com/Tody-99)
+- [Oluwatodimu Ayodele](https://github.com/Tody-99)
 
